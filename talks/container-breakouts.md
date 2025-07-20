@@ -9,5 +9,8 @@ conferences:
     location: Bristol
     date: 2024-08-30
     slides: /talks/slides/bsides-brs-containers.pdf
-    recording: https://youtu.be/_7R-Ha3cnuE
+    recording: https://youtu.be/_7R-Ha3cnuE  
+  - name: WHY2025 Hacker Camp
+    location: Geestmerambacht, Netherlands
+    date: 2025-08-08
 ---
