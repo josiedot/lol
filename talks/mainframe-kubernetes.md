@@ -17,9 +17,11 @@ conferences:
     location: Bratislava
     date: 2025-06-06
     slides: /talks/slides/kcd-bra-mainframe.pdf
+    recording: https://youtu.be/dG9woWoW4m0
   - name: The Linux Foundation Open Source Summit Europe
     location: Amsterdam
     date: 2025-08-25
+    slides: /talks/slides/oss-ams-mainframe.pdf
   - name: Container Days 
     location: Hamburg
     date: 2025-09-10
