@@ -22,7 +22,9 @@ conferences:
     location: Amsterdam
     date: 2025-08-25
     slides: /talks/slides/oss-ams-mainframe.pdf
+    recording: https://youtu.be/l2391SqiI-8
   - name: Container Days 
     location: Hamburg
     date: 2025-09-10
+    slides: /talks/slides/cd-ham-mainframe.pdf
 ---
