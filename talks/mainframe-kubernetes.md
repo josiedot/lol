@@ -3,6 +3,7 @@ title: Mainframes Aren't Dead, They're Just Running Kubernetes Now
 date: 2025-01-01
 abstract: Mainframes have been declared dead more times than JavaScript frameworks have been invented—but here they are, still running the backbone of global finance, government, and enterprise computing. And now? They’re running Kubernetes too. This talk covers the why and how of running Kubernetes on mainframes, from containerization on z/OS to networking, workload orchestration, and real-world use cases. We’ll break down the challenges, the benefits, and whether this is a clever hack or a genuinely viable approach for modern infrastructure. If you think mainframes are relics, think again—because they’re running microservices now.
 pinned: true
+related_post: https://developers.redhat.com/learn/openshift/implement-multi-architecture-openshift-cluster-s390x-lpar
 conferences:
   - name: The Linux Foundation Open Source Summit North America
     location: Denver
@@ -27,4 +28,5 @@ conferences:
     location: Hamburg
     date: 2025-09-10
     slides: /talks/slides/cd-ham-mainframe.pdf
+    recording: https://youtu.be/LBkB-J5PQ9s
 ---
