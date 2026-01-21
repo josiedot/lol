@@ -4,16 +4,23 @@
   <title>Josephine Pfeiffer's Publications</title>
   <link>https://josie.lol/</link>
   <description>Publications by Josephine Pfeiffer</description>
-  <lastBuildDate>Sun, 05 Oct 2025 20:34:02 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 21 Jan 2026 10:57:44 +0100</lastBuildDate>
   <atom:link href="https://josie.lol/rss.xml" rel="self" type="application/rss+xml" />
   
   <!-- POSTS_START -->
   <item>
-    <title>Hello, Blog World!</title>
-    <link>https://josie.lol/blog/hello-world.html</link>
-    <description><![CDATA[The inaugural post for my new blog]]></description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate>
-    <guid>https://josie.lol/blog/hello-world.html</guid>
+    <title>Introducing Karpenter Cluster Autoscaler for IBM Cloud v1.0.0 Release (via IBM Community)</title>
+    <link>https://community.ibm.com/community/user/blogs/josephine-pfeiffer/2025/11/27/introducing-karpenter-cluster-autoscaler</link>
+    <description><![CDATA[Announcing the v1.0.0 release of the Karpenter Cluster Autoscaler for IBM Cloud]]></description>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 +0100</pubDate>
+    <guid>https://community.ibm.com/community/user/blogs/josephine-pfeiffer/2025/11/27/introducing-karpenter-cluster-autoscaler</guid>
+  </item>
+  <item>
+    <title>Implement a multi-architecture OpenShift cluster with s390x LPAR (via Red Hat Developer)</title>
+    <link>https://developers.redhat.com/learn/openshift/implement-multi-architecture-openshift-cluster-s390x-lpar</link>
+    <description><![CDATA[A learning path on implementing multi-architecture OpenShift clusters with IBM Z systems]]></description>
+    <pubDate>Wed, 21 Jan 2026 10:57:44 +0100</pubDate>
+    <guid>https://developers.redhat.com/learn/openshift/implement-multi-architecture-openshift-cluster-s390x-lpar</guid>
   </item>
   <item>
     <title>How Golden Paths improve developer productivity (via Red Hat Developer)</title>
@@ -28,6 +35,13 @@
     <description><![CDATA[An exploration of container escapes through the lens of Jurassic Park]]></description>
     <pubDate>Mon, 23 Sep 2024 00:00:00 +0200</pubDate>
     <guid>https://josie.lol/blog/t-rex.html</guid>
+  </item>
+  <item>
+    <title>"Red Hat Compiler Podcast: Air-gapped Networks" (via Red Hat Compiler Podcast)</title>
+    <link>https://www.redhat.com/en/compiler-podcast/air-gapped-networks</link>
+    <description><![CDATA[Discussing air-gapped networks and disconnected environments on the Red Hat Compiler podcast]]></description>
+    <pubDate>Thu, 30 May 2024 00:00:00 +0200</pubDate>
+    <guid>https://www.redhat.com/en/compiler-podcast/air-gapped-networks</guid>
   </item>
   <item>
     <title>Achieve more with less using Red Hat Developer Hub's self-service features (via Red Hat Developer)</title>
