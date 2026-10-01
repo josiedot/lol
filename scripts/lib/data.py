@@ -263,9 +263,11 @@ def person() -> dict[str, Any]:
         "url": f"{SITE_URL}/",
         "same_as": [
             "https://github.com/pfeifferj",
+            "https://huggingface.co/pfeifferj",
             "https://gitlab.com/users/josie",
             "https://gitlab.gnome.org/josie",
             "https://gitlab.freedesktop.org/josie",
+            "https://gitlab.archlinux.org/josie",
             "https://accounts.fedoraproject.org/user/josie/",
             "https://fedoraproject.org/wiki/User:Josie",
             "https://www.linkedin.com/in/josephine-pfeiffer/",
