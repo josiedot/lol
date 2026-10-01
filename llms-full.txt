@@ -21,7 +21,7 @@ josie works on infrastructure and security. she spends work hours on linux users
 - **cockpit-pacman** (maintainer, since 2025-01): <https://github.com/pfeifferj/cockpit-pacman>. Cockpit plugin for managing pacman packages on Arch Linux systems. Evidence: <https://github.com/pfeifferj/cockpit-pacman/commits?author=pfeifferj>
 - **Karpenter Cluster Autoscaler for IBM Cloud** (maintainer, since 2025-10, Kubernetes SIG Autoscaling): <https://github.com/kubernetes-sigs/karpenter-provider-ibm-cloud>. Lead maintainer of the Karpenter cloud provider for IBM Cloud VPC. Adopted by Kubernetes SIG Autoscaling in October 2025. Evidence: <https://github.com/kubernetes/community/pull/8648>
 - **Kubernetes SIG Autoscaling** (contributor, since 2024-06, CNCF): <https://github.com/kubernetes/community/tree/main/sig-autoscaling>. SIG member; contributor across Karpenter and the wider cluster-autoscaling subprojects. Top 15 Kubernetes contributor in 2025. Evidence: <https://github.com/kubernetes/community/tree/main/sig-autoscaling>
-- **Kubernetes WG Node Identity** (maintainer, since 2025-01, CNCF): <https://github.com/kubernetes/community/tree/master/wg-node-identity>. Steering committee member of the working group defining secure node-joining patterns for Kubernetes (attestation, root of trust, CSR approval hardening). Evidence: <https://github.com/kubernetes/community/tree/master/wg-node-identity>
+- **Kubernetes WG Node Identity** (maintainer, since 2025-01, CNCF): <https://github.com/kubernetes/community/blob/main/wg-node-identity/README.md>. Steering committee member of the working group defining secure node-joining patterns for Kubernetes (attestation, root of trust, CSR approval hardening). Evidence: <https://github.com/kubernetes/community/blob/main/wg-node-identity/README.md>
 - **NetworkManager** (contributor, since 2025-01, freedesktop.org): <https://gitlab.freedesktop.org/NetworkManager/NetworkManager>. Linux userspace networking daemon. Day job focus area. Evidence: <https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commits/main?author=Josephine%20Pfeiffer>
 - **paru** (contributor, since 2024-01, Arch Linux (AUR helper ecosystem)): <https://github.com/Morganamilo/paru>. Feature-packed AUR helper written in Rust. Contributions focused on alpm.rs integration. Evidence: <https://github.com/Morganamilo/paru/commits/master?author=pfeifferj>
 
@@ -41,7 +41,7 @@ Senior Software Engineer at Red Hat since May 2026, working on the Rust rewrite 
 
 ### What CNCF SIGs or working groups is Josephine Pfeiffer part of?
 
-Josephine Pfeiffer is a member of [Kubernetes SIG Autoscaling](https://github.com/kubernetes/community/tree/main/sig-autoscaling) (contributing to Karpenter and Cluster Autoscaler; top-15 Kubernetes contributor in 2025) and a steering committee member of [WG Node Identity](https://github.com/kubernetes/community/tree/master/wg-node-identity) (secure node-joining, attestation, root of trust).
+Josephine Pfeiffer is a member of [Kubernetes SIG Autoscaling](https://github.com/kubernetes/community/tree/main/sig-autoscaling) (contributing to Karpenter and Cluster Autoscaler; top-15 Kubernetes contributor in 2025) and a steering committee member of [WG Node Identity](https://github.com/kubernetes/community/blob/main/wg-node-identity/README.md) (secure node-joining, attestation, root of trust).
 
 ### Has Josephine Pfeiffer reported any CVEs?
 
