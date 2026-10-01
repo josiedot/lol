@@ -6,6 +6,7 @@ conferences:
   - name: DevOpsDays Vilnius
     location: Vilnius
     date: 2026-09-30
+    slides: /talks/slides/dod-vno-ai.pdf
 ---
 
 The Linux kernel, NetworkManager, glibc, OpenSSL, etc are codebases that aren't going anywhere but can seem quite arcane and unapproachable.
