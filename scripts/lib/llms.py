@@ -101,7 +101,8 @@ def render_llms_full(ctx: dict) -> str:
                 name = c.get("name", "")
                 location = c.get("location", "")
                 date = c.get("date", "")
-                lines.append(f"- {name} ({location}, {date})")
+                suffix = " [cancelled]" if c.get("cancelled") else ""
+                lines.append(f"- {name} ({location}, {date}){suffix}")
             lines.append("")
 
     return "\n".join(lines)

@@ -103,7 +103,7 @@ Mainframes have been declared dead more times than JavaScript frameworks have be
 Presented at:
 - Container Days (Hamburg, 2025-09-10)
 - The Linux Foundation Open Source Summit Europe (Amsterdam, 2025-08-25)
-- The Linux Foundation Open Source Summit North America (Denver, 2025-06-24)
+- The Linux Foundation Open Source Summit North America (Denver, 2025-06-24) [cancelled]
 - Kubernetes Community Days Bratislava (Bratislava, 2025-06-06)
 - Kubernetes Community Day Budapest (Budapest, 2025-04-24)
 
