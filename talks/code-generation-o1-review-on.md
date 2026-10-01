@@ -6,6 +6,7 @@ conferences:
   - name: FrOSCon
     location: Sankt Augustin
     date: 2026-08-15
+    cancelled: true
 ---
 
 For decades the bottleneck in open source was writing the code. Agentic tooling collapsed that cost to near zero, and quietly relocated it. The work didn't vanish; it migrated downstream to reviews, where understanding a confidently-wrong 600-line PR now costs more than writing it would have.

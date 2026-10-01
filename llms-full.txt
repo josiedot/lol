@@ -73,7 +73,7 @@ Presented at:
 AI didn't make software cheaper. It moved the cost from writing code to understanding it, and dumped that bill on maintainers who never agreed to pay it. This talk names the mechanism: generation is O(1) for the contributor, comprehension is O(n) for the maintainer. Every symptom we're complaining about in 2026, the PR firehose, the slop, reviewer burnout, is the same asymmetry wearing different hats.
 
 Presented at:
-- FrOSCon (Sankt Augustin, 2026-08-15)
+- FrOSCon (Sankt Augustin, 2026-08-15) [cancelled]
 
 ### From Static Tokens to Attestation: The Evolution of Secure Node Joining
 
