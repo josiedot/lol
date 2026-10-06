@@ -1000,6 +1000,15 @@
       .hidden-links {
         display: none;
       }
+      .hidden-links a {
+        white-space: nowrap;
+      }
+      .ascii-art {
+        flex-shrink: 0;
+      }
+      .ascii-art span {
+        white-space: pre;
+      }
 
       /* Pre-allocate space for hidden sections to prevent layout shifts */
       #section-certs, #section-volunteer {
@@ -1022,7 +1031,7 @@
           <span class="inline-block px-2 py-1 mb-1 rounded bg-opacity-5 bg-purple-500">❯ neofetch</span>
           <div class="flex flex-col md:flex-row items-center md:items-start">
             <!-- prettier-ignore -->
-            <div class="josie mb-4 md:mb-0 md:mr-6 text-center md:text-left">
+            <div class="josie ascii-art mb-4 md:mb-0 md:mr-6 text-center md:text-left">
 				        <span>    ,~,;,</span><br />
 				        <span>  ~(:())))</span><br />
 				        <span>  ) );),^~;</span><br />
