@@ -1,5 +1,5 @@
 // Cache name with version
-const CACHE_NAME = 'josie-lol-v33';
+const CACHE_NAME = 'josie-lol-v34';
 const OFFLINE_PAGE = '/offline.html';
 
 // Files to cache
