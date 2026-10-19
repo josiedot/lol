@@ -14,12 +14,12 @@
     <meta property="article:published_time" content="{{ post.date_iso }}" />
     <meta property="article:author" content="{{ post.author }}" />
     <meta property="article:tag" content="{{ (post.tags or []) | join(', ') }}" />
-    <meta property="og:image" content="{{ site.url }}/screenshot.png" />
+    <meta property="og:image" content="{{ site.url }}/screenshot.png?v=20261019" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ post.title }} - josie.lol" />
     <meta name="twitter:description" content="{{ post.description }}" />
-    <meta name="twitter:image" content="{{ site.url }}/screenshot.png" />
+    <meta name="twitter:image" content="{{ site.url }}/screenshot.png?v=20261019" />
 
     <script type="application/ld+json">
 {{ post_jsonld | tojson_ld | safe }}
