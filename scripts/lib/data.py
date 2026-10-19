@@ -271,6 +271,7 @@ def person() -> dict[str, Any]:
             "https://accounts.fedoraproject.org/user/josie/",
             "https://fedoraproject.org/wiki/User:Josie",
             "https://www.linkedin.com/in/josephine-pfeiffer/",
+            "https://x.com/josiedotlol",
             "https://www.credly.com/users/pfeifferj",
         ],
         "bio_lines": list(_BIO_LINES),
