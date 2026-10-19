@@ -35,6 +35,9 @@ tmp/
 *.bak
 *.log
 .cache/
+.calira/
+n1x-bench-results*.tar.gz
+/benchmarks/rtx-spark/
 
 # Environment variables and secrets
 .env
@@ -56,4 +59,4 @@ __pycache__/
 # Keep these files
 !.gitignore
 !.dockerignore
-!Containerfile 
+!Containerfile

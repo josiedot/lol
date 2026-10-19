@@ -10,8 +10,11 @@ compose.yaml
 # Editor config files
 .vscode
 .idea
+.calira
 
 # Build artifacts and temporary files
 node_modules
 *.log
-*.tmp 
+*.tmp
+n1x-bench-results*.tar.gz
+benchmarks/rtx-spark/

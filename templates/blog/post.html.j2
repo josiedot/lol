@@ -28,6 +28,7 @@
 {% block styles %}
     <style>
       .blog-content {
+        min-width: 0;
         line-height: 1.7;
         font-family: 'IBM Plex Mono', monospace;
         counter-reset: figure;
@@ -36,6 +37,41 @@
       .blog-content h2 { font-size: 1.5rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 0.75rem; color: #bb86fc; }
       .blog-content h3 { font-size: 1.25rem; font-weight: bold; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #9e71da; }
       .blog-content p { margin-bottom: 1rem; }
+      .blog-content .table-scroll {
+        max-width: 100%;
+        overflow-x: auto;
+        margin: 1.5rem 0;
+        border: 1px solid #443750;
+        border-radius: 0.375rem;
+        scrollbar-color: #9e71da #1a1a1a;
+      }
+      .blog-content .table-scroll:focus-visible {
+        outline: 2px solid #bb86fc;
+        outline-offset: 3px;
+      }
+      .blog-content table {
+        width: 100%;
+        min-width: 32rem;
+        border-collapse: collapse;
+        font-size: 0.875rem;
+        line-height: 1.5;
+        font-variant-numeric: tabular-nums;
+      }
+      .blog-content th, .blog-content td {
+        padding: 0.75rem 1rem;
+        text-align: left;
+        vertical-align: top;
+        border-bottom: 1px solid #443750;
+      }
+      .blog-content th {
+        color: #d6bcfa;
+        background-color: rgba(187, 134, 252, 0.1);
+        font-weight: bold;
+      }
+      .blog-content tbody tr:nth-child(even) {
+        background-color: rgba(187, 134, 252, 0.04);
+      }
+      .blog-content tbody tr:last-child td { border-bottom: 0; }
       .blog-content ul, .blog-content ol { margin-bottom: 1rem; margin-left: 2rem; }
       .blog-content ul { list-style-type: disc; }
       .blog-content ol { list-style-type: decimal; }
@@ -163,7 +199,7 @@
 
         <hr class="border-gray-700 dark:border-gray-600 w-full col-span-full md:col-span-10 mx-0 my-1">
 
-        <div class="p-2 w-full md:col-span-10 col-span-1 mb-1">
+        <div class="p-2 w-full min-w-0 md:col-span-10 col-span-1 mb-1">
           <div class="mb-6 pl-2">
             <h1 class="text-2xl font-bold mb-2 text-purple-400">{{ post.title }}</h1>
             <div class="flex flex-wrap items-center text-sm text-gray-400 mb-2">
